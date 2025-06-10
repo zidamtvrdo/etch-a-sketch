@@ -1,2 +1,5 @@
 # etch-a-sketch
-browser version of sketchpad
+    Browser version of sketchpad
+     - interactive sketchpad
+     - change grid item size
+     - colorful sketchpad
